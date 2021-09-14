@@ -1,1 +1,3 @@
-# jira_api
+# JIRA API
+
+pip install jira
